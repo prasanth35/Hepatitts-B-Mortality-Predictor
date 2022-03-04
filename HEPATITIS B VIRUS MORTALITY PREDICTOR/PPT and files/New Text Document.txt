@@ -1,0 +1,10 @@
+['7', '2', '1', '1', '2', '2', '1', '1', '1', '1', '1', '1', '1', '1']
+
+
+
+
+res = "http://127.0.0.1:5000/api?age=value&sex=2&steroid=value&antivirals=value&fatigue=value&spiders=value&ascites=value&varices=value&bilirubin=value&alk_phosphate=value&sgot=value&albumin=value&protime=value&histology=value"
+        
+
+
+http://127.0.0.1:5000/api?age=7&sex=2&steroid=1&antivirals=1&fatigue=2&spiders=2&ascites=1&varices=1&bilirubin=1&alk_phosphate=1&sgot=0&albumin=1&protime=1&histology=1
